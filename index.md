@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 心得](/sample_page)
+<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
